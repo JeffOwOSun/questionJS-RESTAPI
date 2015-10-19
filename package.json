@@ -1,0 +1,15 @@
+{
+  "name": "questionJS-RESTAPI",
+  "version": "0.0.0",
+  "description": "REST API for questionJS",
+  "main": "server.js",
+  "author": "Why Naming Again",
+  "dependencies": {
+    "body-parser": "~1.5.2",
+    "express": "~4.7.2",
+    "method-override": "~2.1.2",
+    "mongoose": "~3.6.2",
+    "mongoose-timestamp": "^0.4.0",
+    "morgan": "~1.2.2"
+  }
+}
